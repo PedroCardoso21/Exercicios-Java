@@ -1,0 +1,1 @@
+Este repositório é a minha resolução das atividades do site https://www.dio.me/articles/lista-de-exercicios-para-treinar-logica-de-programacao após realizar o curso DevDojo até a aula 94
