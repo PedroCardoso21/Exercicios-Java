@@ -39,9 +39,9 @@ public class Notas implements InterfaceNotas {
         System.out.println("Nome do Aluno: " + nome);
         System.out.println("Média do Aluno: " + calculaMedia());
         if (alunoAprovado()) {
-            System.out.println("Situação do Aluno: Aprovado");
+            System.out.println("Situação do Aluno: Aprovado!!");
         } else {
-            System.out.println("Situação do Aluno: Reprovado");
+            System.out.println("Situação do Aluno: Reprovado!!");
         }
     }
 }

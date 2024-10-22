@@ -7,6 +7,6 @@ public class DiaDosNamorados extends CartaoWeb {
 
     @Override
     public void showMessage() {
-        System.out.println("Feliz dia dos namorados " + destinatario + "! Sou muito feliz com você");
+        System.out.println("Feliz dia dos namorados, " + destinatario + "! Sou muito feliz com você");
     }
 }
