@@ -12,7 +12,8 @@ public class Loja {
         DVDs dvd2 = new DVDs("Gigantes de Aço", 30, 127);
         CDs cd1 = new CDs("NX Zero", 100, 16);
         CDs cd2 = new CDs("Sorriso Maroto", 50, 14);
-        Produto[] produtos = {livro1, livro2, dvd1, dvd2, cd1, cd2};
+        CDs cd3 = new CDs("One Direction", 20, 18);
+        Produto[] produtos = {livro1, livro2, dvd1, dvd2, cd1, cd2, cd3};
 
         System.out.println("Nome da loja: " + nome);
         System.out.println("Produtos:");
